@@ -10,8 +10,10 @@ chatgpt
 openai
 sora
 
-claude
-Anthropic
+大数据
+数据治理
+JAVA
+PYTHON
 
 ai
 !gai
@@ -25,10 +27,6 @@ ChatGPT
 
 国产
 中国
-
-美国
-日本
-韩国
 
 芯片
 光刻机
